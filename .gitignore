@@ -1,3 +1,7 @@
 setup_env.py
 3000-env
 .DS_Store
+.venv/
+__pycache__/
+*.pyc
+*.pyo
